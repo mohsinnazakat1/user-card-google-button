@@ -1,4 +1,5 @@
 en:
-  user:
-    google: "Google"
-    twitter: "Twitter"
+  js:
+    user:
+      google: "Google"
+      twitter: "Twitter"
